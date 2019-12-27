@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+*{
+	font-size: 18px;
+}
+table{
+	margin: 50px auto;
+	width: 400px;
+	height: 400px;
+	background-color: blanchedalmond;
+}
+#title{
+	color: orange;
+	font-size: 24px;
+}
+#register{
+	margin-left: 70px;
+	margin-right: 50px;
+}
+#reset,#register{
+	line-height: 30px;
+	width: 100px;
+	background-color: orange;	
+}
+#span1{
+	color:red;
+	margin: 50px auto;
+}
